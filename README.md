@@ -1,2 +1,2 @@
-# TPConferenciaBsAs
-Tp Bootstrap
+# TP-Codo-a-Codo
+Trabajo Práctico
